@@ -3,10 +3,7 @@ import org.bukkit.ChatColor;
 import java.awt.Color;
 
 /**
- * Represents the palette that map items use.
- * <p>
- * These fields are hee base color ranges. Each entry corresponds to four
- * colors of varying shades with values entry to entry + 3.
+ * Represents the palette that chatcolor uses.
  */
 public final class ChatColorPalette {
     // Internal mechanisms
